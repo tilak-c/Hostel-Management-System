@@ -1,0 +1,21 @@
+
+
+Sno - 1
+Name - Sophia
+Age - 28
+Qualifications - MTech
+Father's name - Hollyn
+Father's Number - 7293874812
+Residency - Hyderabad
+Duration of course - 34 days
+
+
+Sno - 2
+Name - Brenda
+Age - 28
+Qualifications - MTech
+Father's name - Peter
+Father's Number - 6372912012
+Residency - Jubilee hills
+Duration of course - 45 days
+
